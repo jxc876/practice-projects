@@ -7,3 +7,15 @@
 [submodule "c-practice"]
 	path = c-practice
 	url = git@github.com:jxc876/c-practice.git
+[submodule "cmake-practice"]
+	path = cmake-practice
+	url = git@github.com:jxc876/cmake-practice.git
+[submodule "css-practice"]
+	path = css-practice
+	url = git@github.com:jxc876/css-practice.git
+[submodule "react-practice"]
+	path = react-practice
+	url = git@github.com:jxc876/react-practice.git
+[submodule "ansible-practice"]
+	path = ansible-practice
+	url = git@github.com:jxc876/ansible-practice.git
